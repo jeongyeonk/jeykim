@@ -24,7 +24,3 @@
 # print(x)
 # print(y)
 # print(z)
-# print("\n") 
-# print(x+y+z)
-# print("\n")
-# print(z)
