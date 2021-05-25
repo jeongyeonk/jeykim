@@ -17,3 +17,16 @@ print("4)", x%y%z) # x를 y로 나누고 남는 값에서 z나눠서 남는 값 
 print("5)", x**y**z) # x의 y곱에 z곱 - print("5)", x**(y**z))
 print("5)", (x**y)**z) # x의 y곱하고 z곱
 print("6)", x**y)
+
+x = "Hello" # 변수 x에 문자 Hello 선언
+y = 'Bye' # 변수 y에 문자 Bye 선언
+z = """안녕하세요.
+저는 21학번 새내기입니다""" # 변수 z에 문자 2행 선언
+print(x)
+print(y)
+print(z)
+print("\n") # 공백 행
+print(x+y+z)
+print("\n") # 공백 행
+print(z)
+
