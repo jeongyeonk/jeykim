@@ -1,26 +1,9 @@
-# x=1
-# y=2
-# print(x)
-# print(y)
-# print (x,y)
-# z= "안녕"
-# print(z)
+x = 1 #변수 x = 숫자형 1 선언
+y = 2 #변수 y = 숫자형 2 선언
+print(x) #변수 x를 출력
+print(y) #변수 y를 출력
+print(x,y) #변수 x와 y를 출력
+z = "안녕" #변수 z = 문자형 "안녕"으로 선언
+print(z) #문자형 z을 출력
 
-# x = 5 
-# y = 3 
-# z = 1.2 
-# print("1)", x+y+z) 
-# print("2)", x-y-z)
-# print("3)", x*y*z, "\n")
-# print("4)", x%y%z) 
-# print("4)", (x%y)%z)
-# print("5)", x**y**z) 
-# print("5)", (x**y)**z) 
-# print("6)", x**y)
 
-# x = "Hello" 
-# y = 'Bye'
-# z = """안녕하세요. 저는 21학번 새내기입니다""" 
-# print(x)
-# print(y)
-# print(z)
